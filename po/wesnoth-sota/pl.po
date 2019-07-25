@@ -78,7 +78,7 @@ msgstr ""
 "Odkryj sekrety znany liczym władcom z Zielonej Wyspy. Oni znali tajemnicę "
 "życia wiecznego, dlaczego Ty miałabyś ich nie poznać?\n"
 "\n"
-"(Średni poziom, 21 scenariuszy.)\n"
+"(Średni poziom, 18 scenariuszy.)\n"
 
 #. [about]
 #: data/campaigns/Secrets_of_the_Ancients/_main.cfg:28
