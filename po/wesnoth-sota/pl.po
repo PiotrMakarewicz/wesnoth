@@ -78,7 +78,7 @@ msgstr ""
 "Odkryj sekrety znany liczym władcom z Zielonej Wyspy. Oni znali tajemnicę "
 "życia wiecznego, dlaczego Ty miałabyś ich nie poznać?\n"
 "\n"
-"(Średni poziom, 18 scenariuszy.)\n"
+"(Trudny poziom, 18 scenariuszy.)\n"
 
 #. [about]
 #: data/campaigns/Secrets_of_the_Ancients/_main.cfg:28
@@ -153,7 +153,7 @@ msgstr ""
 "26 II, 23 YW:\n"
 "\n"
 "Moje eksperymenty na nietoperzach były bezowocne. Ustaliłam, że one nie "
-"wysysają mocy życiowej ze swoich ofiar -to tylko iluzja. To utrata krwi "
+"wysysają mocy życiowej ze swoich ofiar - to tylko iluzja. To utrata krwi "
 "osłabia ofiary, a nietoperz odzyskuje witalność ponieważ się nią pożywia. "
 "Nie ma nic, czego mogłabym nauczyć się od nietoperzy w zakresie przedłużania "
 "życia. I teraz mam problem. Jestem zmuszona trzymać nietoperze i udawać, że "
@@ -185,9 +185,9 @@ msgstr ""
 "skupiają umysł na zadaniu. Ćwiczyliśmy z obiektami nieożywionymi, ale "
 "wyraźnie ta sama zasada mogłaby być zastosowana do martwego ciała. Nikt nie "
 "ośmielił się wypowiedzieć tej myśli, ponieważ okazywanie zainteresowania "
-"nekromantycznymi sztukami prowadzi do wydalenia. Zastanawiałam się nad tym, "
+"nekromantycznymi sztukami prowadzi do wypędzenia. Zastanawiałam się nad tym, "
 "kiedy zauważyłam, że Aimucasur patrzy na mnie. Muszę być bardziej ostrożna w "
-"przyszłości, który z moich myśli pojawia się na mojej twarzy."
+"przyszłości, która z moich myśli pojawia się na mojej twarzy."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:72
@@ -211,18 +211,18 @@ msgid ""
 msgstr ""
 "15 III, 23 YW:\n"
 "\n"
-"Jeden z moich nietoperzy musiał być stary, bo umarł. Odważnie postanowiłam "
+"Jeden z moich nietoperzy musiał być stary, gdyż zmarł. Odważnie postanowiłam "
 "ożywić ciało. Cieszyłam się, że to działa, ale to, co było interesujące, "
 "było następujące: za pierwszym razem, gdy nietoperz drgnął, poczułam, jak "
 "ostatnia iskra energii życiowej miga przez jego ciało. Zauważyłam, że "
-"płynęło przez jakąś ścieżkę. To podsunęło mi pomysł. Moim zdaniem, szukałam "
-"wszystkich ścieżek siły życiowej w swoim ciele, wykorzystując to, co mogłam "
-"wyczuć w żywych nietoperzach. Potem animowałam <i> je </i> na raz, a "
-"nietoperz powoli trzepotał o podłogę sam! (To jest stara sztuczka, której "
+"płynęła przez jakąś ścieżkę. To podsunęło mi pomysł. Za pomocą mojego umysłu "
+"szukałam wszystkich ścieżek siły życiowej w swoim ciele, wykorzystując to, "
+"co mogłam wyczuć w żywych nietoperzach. Potem animowałam <i>je</i> na raz, "
+"a nietoperz powoli trzepotał o podłogę sam! (To jest stara sztuczka, której "
 "Aimucasur prawdopodobnie nie zna!). Jeszcze lepiej, energia płynąca przez "
 "sieć siły życiowej zdawała się utrzymywać, więc nie musiałam się "
 "koncentrować. Czy to może być cała tajemnica? Czy wszyscy starożytni "
-"lordowie mogli sprowadzić kogoś <i> po </i> śmierci? Potrzebowałabym innego "
+"lordowie mogli sprowadzić kogoś <i>po</i> śmierci? Potrzebowałabym innego "
 "maga, któremu całkowicie ufałam, ale może uda mi się znaleźć kogoś, z kim "
 "mogłabym zawrzeć pakt."
 
@@ -249,15 +249,15 @@ msgstr ""
 "Po dalszych obserwacjach ustaliłam, że prawdopodobnie nie jest to sposób na "
 "uniknięcie śmierci. Reanimowany nietoperz nie ma woli! Nic nie robi, dopóki "
 "nie szturchnę go swoim umysłem. Być może wola człowieka jest silniejsza i "
-"pewnego dnia wkrótce będę miała okazję dowiedzieć się ... ponieważ opuszczam "
+"pewnego dnia wkrótce będę miała okazję dowiedzieć się... ponieważ opuszczam "
 "Akademię. Będę w moim pokoju, gdy stary Morvihn będzie robił nocny obchód, "
 "ale nie dwie godziny później! Meczę się tym miejscem i jego ograniczeniami. "
 "Tak więc nie będzie już brązowych szat, ani wyśmiewania z powodu moich "
-"włosów, ani pompatycznych instruktorów. Nauczę się tak zwanych „ciemnych” "
+"włosów, ani pompatycznych instruktorów. Nauczę się tak zwanych „mrocznych” "
 "sztuk i nauczę się żyć wiecznie! Starożytni z Zielonej Wyspy znaleźli "
-"sposób, więc też mogę to odkryć. Kiedy wszyscy ci starzy ludzie znajdą się "
-"na końcu drogi życia, będą musieli błagać mnie o sekret. Być może będę "
-"hojna. być może nie."
+"sposób, więc też mogę go odkryć. Kiedy wszyscy ci starzy ludzie znajdą się "
+"na końcu swej drogi życia, będą musieli błagać mnie o sekret. Być może będę "
+"hojna. Być może nie."
 
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:173
@@ -297,7 +297,7 @@ msgid ""
 "permanantly added to the recruit list instead."
 msgstr ""
 "<span color='cyan'>Ważna informacja: </span>W tej kampanii, jeśli jednostka "
-"zginie in nie zostanie natychmiast przywrócona jako trup, zostanie dodana do "
+"zginie i nie zostanie natychmiast przywrócona jako trup, zostanie dodana do "
 "listy rekrutacyjnej."
 
 #. [message]: speaker=Ardonna
@@ -309,11 +309,11 @@ msgid ""
 "for the dock. I will need some traveling money for that, so go, my bat "
 "friends, and find me some gold!"
 msgstr ""
-"Powinnam opuścić wyspę na wypadek, gdyby komisja etyczna była zaniepokojona "
-"dzikim magiem. Nie dam się zawlec z powrotem w hańbie! Powinnam być w stanie "
-"dotrzeć do miasta Llorvin przed rankiem. Mogę się tam ukryć, aż udam się do "
-"doku. Potrzebuję na to trochę pieniędzy, więc idźcie, moi przyjaciele "
-"nietoperze, i znajdźcie mi trochę złota!"
+"Powinnam opuścić wyspę, na wypadek, gdyby komisja etyczna była zaniepokojona "
+"dzikim magiem. Nie dam się zawlec z powrotem, okryta hańbą! Powinnam być w "
+"stanie dotrzeć do miasta Llorvin przed rankiem. Mogę się tam ukryć, aż udam "
+"się do doku. Potrzebuję na to trochę pieniędzy, więc idźcie, moi przyjaciele "
+"nietoperze i znajdźcie mi trochę złota!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:329
@@ -325,8 +325,8 @@ msgid ""
 "fire."
 msgstr ""
 "Dobrze byłoby mieć jeszcze więcej nietoperzy. W tym zrujnowanym zamku "
-"znajdowała się kolonia, w której ćwiczyliśmy przywoływanie ognia, więc "
-"spróbuję ją znaleźć. Pamiętam też, że zamek był zasiedlony przez ogromne "
+"znajdowała się kolonia, w której ćwiczyliśmy przywoływanie ognia. Spróbuję "
+"więc ją znaleźć. Pamiętam też, że zamek był zasiedlony przez ogromne "
 "szczury, ale z pewnością mogę je zniszczyć. Będę musiała użyć lodu, ponieważ "
 "nigdy nie opanowałam ognia."
 
@@ -345,7 +345,7 @@ msgstr ""
 msgid ""
 "The morning has come, and I am still in the open. I will be caught for sure!"
 msgstr ""
-"Nadszedł poranek, a ja wciąż jestem na otwartym terenie. Zostanę na pewno "
+"Nadszedł poranek, a ja wciąż jestem na otwartym terenie. Na pewno zostanę "
 "złapana!"
 
 #. [scenario]: id=02_Dark_Business
@@ -364,10 +364,10 @@ msgid ""
 msgstr ""
 "16 III, 23 YW:\n"
 "\n"
-"Zdecydowałam się ukryć na cmentarzu. W ten sposób mogłabym spróbować mojego "
-"eksperymentu, aby animować ludzkie ciało, gdy zapadnie noc. Z moim ciemnym "
-"płaszczem przypominałam żałobników, a z założonym kapturem nikt nie widział "
-"moich włosów."
+"Zdecydowałam się ukryć na cmentarzu. W ten sposób mogłabym spróbować "
+"przeprowadzić eksperyment z animowaniem ludzkiego ciała, gdy tylko zapadnie "
+"noc. Z moim ciemnym płaszczem przypominałam żałobników, a z założonym "
+"kapturem nikt nie widział moich włosów."
 
 #. [side]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:67
@@ -464,42 +464,42 @@ msgstr "Caradoc"
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:394
 msgid "Oh, hello friend! I didn't know you were hiding in there."
-msgstr ""
+msgstr "Oh, witaj przyjacielu. Nie wiedziałam, że się tutaj ukrywasz."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:400
 msgid "Oh, hello! You're a handsome one."
-msgstr ""
+msgstr "Oh, cześć! Jaki przystojniak z Ciebie."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:417
 msgid "Hey, come back! I didn't mean to frighten you."
-msgstr ""
+msgstr "Hej, wracaj! Nie miałam zamiaru Ciebie przestraszyć."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:421
 msgid "Maybe I could attract it if I jingled some coins."
-msgstr ""
+msgstr "Może udałoby mi się go przyciągnąć, gdybym pobrzęczał nieco monetami."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:444
 msgid "Right-click adjacent to your leader to summon the bat."
-msgstr ""
+msgstr "Kliknij prawym przyciskiem myszy na polu obok Twojego przywódcy aby przywołać nietoperza."
 
 #. [set_menu_item]: id=summon_bat
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:452
 msgid "Summon the Bat (20 gold)"
-msgstr ""
+msgstr "Przywołaj Nietoperza (20 sztuk złota)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:492
 msgid "You don't have enough gold to summon the bat."
-msgstr ""
+msgstr "Nie masz wystarczającej ilości złota by przywołać nietoperza."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:574
 msgid "You can now recruit skeletons and skeleton archers!"
-msgstr ""
+msgstr "Możesz teraz rekrutować szkielety i łuczników szkielety!"
 
 #. [event]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:627
@@ -550,7 +550,7 @@ msgstr ""
 #. [message]: speaker=Syrillin
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:745
 msgid "Why are we stuck guarding a cemetery all night?"
-msgstr "Dlaczego utknęliśmy pilnując cmentarza całą noc?"
+msgstr "Dlaczego utknęliśmy pilnując cmentarza przez całą noc?"
 
 #. [message]: speaker=Veomyr
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:751
@@ -593,7 +593,7 @@ msgid ""
 "Well, I might as well do my experiment and worry about leaving later."
 msgstr ""
 "Oni muszę bronić cmentarza przede <i>mną</i>! Być może Aimucasur naprawdę "
-"był podejrzliwy. To dobrze, że już tutaj jestem, ale jak mam wyjść?\n"
+"coś podejerzewał. To dobrze, że już tutaj jestem, ale jak mam wyjść?\n"
 "\n"
 "W zasadzie, równie dobrze mogę przeprowadzić mój eksperyment i później się "
 "martwić jak stąd odejść."
@@ -659,7 +659,7 @@ msgstr "Ty i tamta... inna osoba. Kto to jest?"
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:905
 msgid ""
 "Oh, him. See here, I don't want any trouble, but he is a little... ah..."
-msgstr "O, on, Zrozum, nie chcę żadnych kłopotów, ale on jest trochę... hm..."
+msgstr "Oh, on, Zrozum, nie chcę żadnych kłopotów, ale on jest trochę... hm..."
 
 # nie jest przetłumaczone w grze
 #. [message]: speaker=Caradoc
@@ -669,12 +669,12 @@ msgid ""
 "country! The penalty is death. Attack and destroy them both!"
 msgstr ""
 "On jest <i>martwy</i>! To jest czarna magia, taka jak za czasów mojego "
-"dziada! Karą za to jest śmierć. Zaatakować i zniszczyć ich obu!"
+"dziada! Karą za to jest śmierć. Zaatakować i zniszczyć oboje!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:913
 msgid "Hey! Don't do that, or I will need more of them."
-msgstr "Hej! Nie rób tego, bo będę potrzebował ich więcej."
+msgstr "Hej! Nie rób tego, albo będę potrzebował ich więcej."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:917
@@ -720,13 +720,13 @@ msgid ""
 msgstr ""
 "17 III, 23 YW:\n"
 "\n"
-"Mimo opóźnienia na cmentarzu dotarłam na peryferie Llorvin o brzasku, i było "
-"daleko za mną, gdy słońce wzeszło nad górskimi szczytami. Wątpię, czy "
-"Akademia będzie mnie szukać w dzikich bezdrożach  zamieszkałych tylko przez "
+"Mimo opóźnienia na cmentarzu, dotarłam na peryferie Llorvin o brzasku. Było "
+"już daleko za mną, gdy słońce wzeszło nad górskimi szczytami. Wątpię, czy "
+"Akademia będzie mnie szukać na dzikich bezdrożach zamieszkałych tylko przez "
 "drwali, a wraz z moimi nowymi towarzyszami czuję się wystarczająco "
 "bezpiecznie, aby podróżować w ciągu dnia. Zmierzam na wschód, a potem na "
 "północ, w stronę doków. Statek powinien wypłynąć do Blackwater Port ciągu "
-"kilku dni, a mam zamiar na nim."
+"kilku dni, a mam zamiar na nim być."
 
 #. [side]: type=Bandit, id=Garcyn
 #. [unit]: type=Ghoul
@@ -767,12 +767,12 @@ msgstr ""
 #. [message]: speaker={ID}
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:109
 msgid "And there is a white-haired girl."
-msgstr ""
+msgstr "A tutaj jest białowłosa dziewczyna."
 
 #. [message]: speaker=Garcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:113
 msgid "She must be in league with the dead, so crush her too."
-msgstr "Musi być sprzymierzona ze zmarłymi, więc ją także zniszczyć."
+msgstr "Musi być sprzymierzona ze zmarłymi, więc ją także zniszcz."
 
 #. [message]: speaker=Garcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:204
@@ -782,7 +782,7 @@ msgstr "Nie!"
 #. [message]: speaker=Garcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:208
 msgid "You have earned my wrath, wench. Death will be too good for you!"
-msgstr ""
+msgstr "Zasłużyłaś na mój gniew, zdziro. Śmierć będzie dla Ciebie zbyt dobra!"
 
 #. [message]: speaker=Mossa
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:217
@@ -854,7 +854,7 @@ msgstr ""
 "silniejsza. Co dziwniejsze, wnętrze jego ciała również się opierało, "
 "atakując mnie, najeźdźcę. Ponieważ jednak nie byłam tam fizycznie, skończyło "
 "się na atakowaniu samego siebie! W ciągu kilku godzin ciało stały się słabe "
-"i groziły spadnięciem z jego ramy. Byłam zobowiązany je zszyć."
+"i groziły rozpadnięciem. Byłam zmuszona je zszyć."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:45
@@ -869,15 +869,15 @@ msgid ""
 "The mind inside gibbered at what it had become, but the bandit had wished "
 "for me a fate worse than death, so it didn’t seem unfair."
 msgstr ""
-"Niektórzy towarzysze bandytów zginęli w lepszym stanie niż przywódca i "
-"wpadłam na pomysł, żeby dodać ich ciała do mojej marionetki. Zszywałam "
-"mięśnie, gdzie wydawały się pasować, i stosowałem zaklęcia, aby poprawić "
-"wiązanie, poprawiając w ten sposób siłę stworzenia. Początkowo każdy nowy "
-"kawałek ciała powodował kolejną gwałtowną reakcję obronną organizmu. W końcu "
-"reakcje osłabły, a ciało ustabilizowało się w nowej konfiguracji, choć do "
-"tego czasu było ropiejące i nierozpoznawalne. Umysł wewnątrz wypatrywał, co "
-"się stało, ale bandyta życzył mi losu gorszego niż śmierć, więc nie wydawało "
-"się to niesprawiedliwe."
+"Ciała niektórzy towarzyszy bandyty znajdowały się w lepszym stanie niż "
+"przywódca i wpadłam na pomysł, żeby dodać ich ciała do mojej marionetki. "
+"Zszywałam mięśnie, gdzie wydawały się pasować, i stosowałem zaklęcia, aby "
+"poprawić wiązania, zwiększając w ten sposób siłę stworzenia. Początkowo "
+"każdy nowy kawałek ciała powodował kolejną gwałtowną reakcję obronną "
+"organizmu. W końcu reakcje osłabły, a ciało ustabilizowało się w nowej "
+"konfiguracji, choć do tego czasu było ropiejące i nierozpoznawalne. Umysł "
+"wewnątrz <nie wiem>, ale bandyta życzył mi losu gorszego niż śmierć, "
+"więc nie wydawało się to niesprawiedliwe."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:52
@@ -898,6 +898,7 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:59
+# fuzzy
 msgid ""
 "25 III, 23 YW\n"
 "\n"
@@ -910,9 +911,9 @@ msgstr ""
 "25 III, 23 YW\n"
 "\n"
 "Podróż zaczęła się dość dobrze, ale o świcie po naszym wypłynięciu wiatr "
-"całkowicie zanikł, a my zostaliśmy osieroceni. Było wystarczająco dużo "
-"żywności dla płacących pasażerów na kilka dni, ale nie dla moich towarzyszy, "
-"a żyjący wkrótce poczuli głód. Kiedy jeden z członków załogi zniknął "
+"całkowicie zanikł, a my zaczęliśmy dryfować. Dla płacących pasażerów było "
+"wystarczająco dużo żywności na kilka dni, ale nie dla moich towarzyszy, "
+"a ci żyjący wkrótce poczuli głód. Kiedy jeden z członków załogi zniknął "
 "drugiego wieczoru, podejrzewałam przyczynę. Nie myliłam się."
 
 #. [time]: id=lower_deck
@@ -966,7 +967,7 @@ msgid ""
 "shadows, and he smelled foul."
 msgstr ""
 "Znalazłem Janryna w ładowni. Albo, ah ... jego kawałek. On jest martwy. Nie "
-"zostałem, żeby dowiedzieć się, co go zabiło, ale słyszałem jak ktoś szurał w "
+"zostałem żeby dowiedzieć się co go zabiło, ale słyszałem jak ktoś szurał w "
 "cieniu, a Janryn strasznie śmierdział."
 
 #. [message]: speaker=Rudic
@@ -1014,8 +1015,8 @@ msgid ""
 "that suits me is the lot of you off my ship, preferably at the bottom of the "
 "sea."
 msgstr ""
-"Zabili mojego członka załogi i zrobili ze mnie głupca! Jedyne rozwiązanie, "
-"które mi odpowiada, to wyrzucić was z mojego statku, najlepiej na dnie morza."
+"Zabili członka mojej załogi i zrobili ze mnie głupca! Jedyne rozwiązanie, "
+"które mi odpowiada, to wyrzucić was z mojego statku, najlepiej na dno morza."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:582
@@ -1138,7 +1139,7 @@ msgstr "Co się stało? Umarłem."
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:332
 msgid "Keep quiet about that."
-msgstr ""
+msgstr "Nie rozmawiaj na ten temat."
 
 #. [message]: speaker=Gweddyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:336
@@ -4238,7 +4239,7 @@ msgstr ""
 #. [unit_type]: id=SotA Walking Corpse_Dummy, race=undead
 #: data/campaigns/Secrets_of_the_Ancients/units/SotA_Corpses.cfg:89
 msgid "All Corpses"
-msgstr ""
+msgstr "Wszyscy Nieumarli"
 
 #. [unit_type]: id=SotA Walking Corpse_Dummy, race=undead
 #: data/campaigns/Secrets_of_the_Ancients/units/SotA_Corpses.cfg:101
@@ -4250,7 +4251,7 @@ msgstr ""
 #: data/campaigns/Secrets_of_the_Ancients/units/SotA_Corpses.cfg:153
 #: data/campaigns/Secrets_of_the_Ancients/units/SotA_Corpses.cfg:310
 msgid "Flying Corpse"
-msgstr ""
+msgstr "Latający Trup"
 
 #. [unit_type]: id=SotA Swimming Corpse
 #: data/campaigns/Secrets_of_the_Ancients/units/SotA_Corpses.cfg:201
@@ -4379,7 +4380,7 @@ msgstr ""
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:360
 msgid "Don't worry, my pet. I can save you."
-msgstr ""
+msgstr "Nie martw się, mój zwierzaczku. Mogę Ciebie uratować."
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:416
@@ -4607,7 +4608,20 @@ msgid ""
 "                You can now raise troll corpses!,\n"
 "                You can now raise dwarf corpses!"
 msgstr ""
-
+"Możesz ożywiać teraz ciała nietoperzy!,\n"
+"                Możesz ożywiać teraz ciała szczurów!,\n"
+"                Możesz ożywiać teraz ciała wilków!,\n"
+"                Możesz ożywiać teraz ciała ludzi!,\n"
+"                Możesz ożywiać teraz ciała mounted corpses!,\n"
+"                Możesz ożywiać teraz ciała wolf rider corpses!,\n"
+"                Możesz ożywiać teraz ciała swimming corpses!,\n"
+"                Możesz ożywiać teraz ciała saurian corpses!,\n"
+"                Możesz ożywiać teraz ciała wose corpses!,\n"
+"                Możesz ożywiać teraz ciała goblinów!,\n"
+"                Możesz ożywiać teraz ciała gryfonów!,\n"
+"                Możesz ożywiać teraz ciała pająków!,\n"
+"                Możesz ożywiać teraz ciała trolli!,\n"
+"                Możesz ożywiać teraz ciała krasnoludów!"
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:346
 msgid "A lua error has occurred, and a corpse cannot be recruited."
