@@ -78,7 +78,7 @@ msgstr ""
 "Odkryj sekrety znany liczym władcom z Zielonej Wyspy. Oni znali tajemnicę "
 "życia wiecznego, dlaczego Ty miałabyś ich nie poznać?\n"
 "\n"
-"(Średni poziom, 21 scenariuszy.)"
+"(Średni poziom, 21 scenariuszy.)\n"
 
 #. [about]
 #: data/campaigns/Secrets_of_the_Ancients/_main.cfg:28
@@ -279,13 +279,6 @@ msgstr ""
 "Ardonna może się wspinać na ogrodzenie, co kosztuje 2 punkty ruchu. Dzikie "
 "zwierzęta tego nie potrafią."
 
-#. [note]
-#: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:188
-msgid ""
-"Ardonna can climb over a fence for 2 movement points, but wild animals "
-"cannot."
-msgstr ""
-
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:194
 msgid "Llorvin"
@@ -303,6 +296,9 @@ msgid ""
 "killed and not immediately raised as a corpse, its corpse type will be "
 "permanantly added to the recruit list instead."
 msgstr ""
+"<span color='cyan'>Ważna informacja: </span>W tej kampanii, jeśli jednostka "
+"zginie in nie zostanie natychmiast przywrócona jako trup, zostanie dodana do "
+"listy rekrutacyjnej."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:325
@@ -343,17 +339,6 @@ msgstr ""
 "Wilk! Ta podróż może być bardziej niebezpieczna niż myślałam. Jeśli będzie "
 "taka potrzeba, to myślę, że będziemy mogli odpocząć wewnątrz zagrody drwala "
 "albo farmera."
-
-#. [message]: speaker=narrator
-#: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:315
-msgid ""
-"<span color='cyan'>Special Note: </span>In this campaign, if a unit is "
-"killed and not immediately raised as a corpse, its corpse type will be "
-"permanantly added to the recruit list instead."
-msgstr ""
-"<span color='cyan'>Ważna informacja: </span>W tej kampanii, jeśli jednostka "
-"zginie in nie zostanie natychmiast przywrócona jako trup, zostanie dodana do "
-"listy rekrutacyjnej."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:364
@@ -2407,11 +2392,6 @@ msgstr ""
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:164
 msgid "Every time..."
 msgstr "Za każdym razem..."
-
-#. [message]: speaker=Ardonna
-#: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:173
-msgid "Good. Now I can practice recruiting ghosts."
-msgstr "Dobrze. Teraz mogę poćwiczyć tworzenie ghouli."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:173
