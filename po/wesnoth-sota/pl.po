@@ -1201,7 +1201,7 @@ msgstr ""
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:376
 msgid "We are finished."
-msgstr "Jesteśmy skończeni."
+msgstr "Skończyliśmy."
 
 #. [message]: speaker=Shadow
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:393
@@ -1251,8 +1251,8 @@ msgid ""
 msgstr ""
 "3 IV, 23 YW\n"
 "\n"
-"Byłem pewna, że mam odpowiedź! Myliłam się. Chciałam wierzyć, że to sobie "
-"wyobrażam, ale teraz jasne jest, że wspomnienia kapitana zanikają. Nadal "
+"Byłem pewna, że mam odpowiedź! Myliłam się. Chciałam wierzyć, że mi się "
+"wydawało, ale teraz jasne jest, że wspomnienia kapitana zanikają. Nadal "
 "zachowuje mowę, a inni walczą lepiej, gdy patrzy (wielu przecież było jego "
 "załogą - to byłby dla nich zwyczaj), ale pamięta teraz niewiele więcej. To "
 "samo dotyczy moich innych niedawno ożywionych przyjaciół. Jestem "
@@ -1287,12 +1287,12 @@ msgid ""
 "the spirit is practically invisible. We have not had any trouble on the road "
 "yet, but we <i>are</i> a rather large company now, so I have not expected it."
 msgstr ""
-"Upiór prowadzi nas na północ. Zidentyfikował się jako duch Vash-Gorn, orka. "
+"Upiór prowadzi nas na północ. Zidentyfikował się jako duch Vash-Gorna, orka. "
 "Więc to pamięta! Wydaje się, że problem został rozwiązany, ale duch ignoruje "
 "wszystkie moje pytania. Płonę z ciekawości, więc mam nadzieję, że wkrótce "
 "dotrzemy do celu! Podróżujemy tylko w dzień, ponieważ w nocy duch jest "
 "praktycznie niewidoczny. Nie mieliśmy jeszcze żadnych problemów na drodze, "
-"ale <i> jesteśmy </i> dość dużą grupą, więc nie spodziewałem się tego."
+"ale <i>jesteśmy</i> dość dużą grupą, więc to było raczej niespodziewane."
 
 #. [side]: type=Direwolf Rider, id=Bogdush
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:71
@@ -1325,7 +1325,7 @@ msgid ""
 "Look, there is a cavern below the cave floor. What might we rouse if we go "
 "tromping about in the cave? I hope it is nothing worse than bats."
 msgstr ""
-"Spójrz, jest jaskinia poniżej podłogi jaskini. Co moglibyśmy wzbudzić, jeśli "
+"Spójrz, tam jest pieczara poniżej podłogi jaskini. Co moglibyśmy wzbudzić, jeśli "
 "będziemy krążyć w jaskini? Mam nadzieję, że to nic gorszego niż nietoperze."
 
 #. [message]: speaker=Bone Captain
@@ -1342,7 +1342,7 @@ msgstr "Z pewnością duch nie poszedłby tam, gdzie nie mogę za nim podążać
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:250
 msgid "If there is one bat, there are certainly more. We should be careful."
 msgstr ""
-"Jeśli jest tutaj jeden nietoprze, to na pewno jest ich więcej. Powinniśmy "
+"Jeśli jest tutaj jeden nietoperz, to na pewno jest ich więcej. Powinniśmy "
 "być ostrożni."
 
 #. [message]: speaker=Ardonna
@@ -1375,7 +1375,7 @@ msgstr "Chodź."
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:563
 msgid "Let’s follow it into the cave."
-msgstr "Podążajmy za to do jaskini."
+msgstr "Podążajmy za nim do jaskini."
 
 #. [message]: speaker=Blaust
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:567
@@ -1383,7 +1383,7 @@ msgid ""
 "I don’t know, Bogdush. The chief said he wanted stuff that was helpful for "
 "the war."
 msgstr ""
-"Nie wiem, Bogdush. Szef powiedział, że chce rzeczy przydatnych na wojnie."
+"Nie wiem, Bogdush. Szef powiedział, że chce rzeczy, które są przydatne na wojnie."
 
 #. [message]: speaker=Bogdush
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:571
@@ -1392,7 +1392,7 @@ msgid ""
 "It’s only a pup, and unless I miss my guess, it’s a female too. It will be "
 "easy to capture."
 msgstr ""
-"To <i> mag </i>! On <i> byłby </i> pomocny na wojnie, idioto! To tylko "
+"To <i>mag</i>! On <i>byłby</i> pomocny na wojnie, idioto! To tylko "
 "szczenię, a jeśli się nie mylę, to też kobieta. Będzie łatwa do złapania."
 
 #. [message]: speaker=Blaust
@@ -1484,8 +1484,8 @@ msgid ""
 msgstr ""
 "Wiem o tobie dużo. Moje duchy obserwują cię już od jakiegoś czasu, a ty i ja "
 "mamy wspólny cel, pokonanie śmierci. Miałem nadzieję, że kilku studentów "
-"uwolni się z tej konserwatywnej akademii, ale wydaje się, że będziesz "
-"jedynym. Na szczęście jesteś dość innowacyjna, a nawet osiągnęłaś coś, czego "
+"uwolni się z tej konserwatywnej akademii, ale wydaje się, że byłaś "
+"jedyną. Na szczęście jesteś dość innowacyjna, a nawet osiągnęłaś coś, czego "
 "mi się nie udało. Masz przydatne stworzenia - wierzę, że nazywasz je ghulami?"
 
 #. [message]: speaker=Ardonna
@@ -1509,7 +1509,7 @@ msgid ""
 "I have another idea."
 msgstr ""
 "Niestety, nie. Duchy mogą zachować pewne wspomnienia, jeśli zostaną "
-"stworzone wystarczająco szybko, i są dobrymi zwiadowcami i jak zgromadzą "
+"stworzone wystarczająco szybko i są dobrymi zwiadowcami, a kiedy zgromadzą "
 "nieco doświadczenia, to także żołnierzami, ale nie chciałbyś zostać jednym z "
 "nich. Widzisz ostrza, które nosi Vash-Gorn? Trzeba było skomplikowanego "
 "rytuału, by związać ten metal z duchem, i nie można było wykonać tego "
@@ -1525,7 +1525,7 @@ msgid ""
 "I. First, we will enlarge our armies, and then..."
 msgstr ""
 "Wierzę, że wiem, jak zdobyć informacje, których szukamy, ale byłoby to zbyt "
-"trudne do zdobycia dla mnie samego. Dlatego pójdziemy na misję, ty i ja. Po "
+"trudne do wykonania dla mnie samego. Dlatego pójdziemy na misję, ty i ja. Po "
 "pierwsze, powiększymy nasze armie, a potem ..."
 
 #. [message]: speaker=Ardonna
@@ -1546,7 +1546,7 @@ msgid ""
 "finishing before it is too late for us."
 msgstr ""
 "Ach ... tak, chyba nie. Pozwól, że nauczę Ciebie tego, co wiem dzisiaj, i "
-"zobaczę, czy to przekazuje waszą opinię. Jednakże kwestia zaufania nie jest "
+"zobaczę, czy to zmieni Twoją opinię. Jednakże kwestia zaufania nie jest "
 "najważniejsza. Pytanie brzmi, czy możemy pracować razem. Słuchaj. Starożytni "
 "Wesfolk szlifowali swoje rzemiosło przez pokolenia. Jest więcej do poznania, "
 "niż jedna osoba może się nauczyć przez całe życie. Jeśli będziesz "
@@ -1581,7 +1581,7 @@ msgstr ""
 "spróbuję wyszkolić miejscowych chłopów w sztukach magicznych. Nie oczekuję "
 "wiele od tego niewykształconego motłochu, ale miejmy nadzieję, że niektórzy "
 "będą wystarczająco inteligentni, by zwiększyć naszą siłę ognia. Kiedy się "
-"spotkamy, pokażesz mi, jak zrobić jednego z tych rozwalających ghouli. "
+"spotkamy, pokażesz mi, jak zrobić jednego z tych rozkładających się ghouli. "
 "Właściwie nie spieszę się, bo mają okropny zapach."
 
 #. [message]: speaker=Ardonna
@@ -1613,8 +1613,8 @@ msgstr ""
 "Te gobliny były zbyt słabe, a upiory z nich powstałe potrzebowałaby dużo "
 "czasu, aby stać się wystarczająco silnymi, by być użytecznymi. Zamiast tego "
 "ożywisz elfickich wojowników. Kilka mil wgłąb Szarych Lasów znajduje się "
-"starożytne pole bitwy z wojny domowej setki lat temu. Podążysz tam starą "
-"drogą elfów i ożywisz armię duchów, podczas gdy ja odwiedzę Carcyn, "
+"starożytne pole bitwy z czasów wojny domowej setki lat temu. Podążysz tam "
+"starą drogą elfów i ożywisz armię duchów, podczas gdy ja odwiedzę Carcyn, "
 "pobliskie miasto. Spotkamy się na końcu drogi elfów nad Wielką Rzeką i "
 "wyjaśnię, gdzie powinniśmy pójść dalej."
 
@@ -1694,8 +1694,9 @@ msgstr ""
 
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:141
+# fuzzy
 msgid "Public House"
-msgstr ""
+msgstr "Dom Publiczny"
 
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:146
@@ -1729,7 +1730,7 @@ msgid ""
 "Or... you know. Thanks so much for getting us out, sir. We would be glad to "
 "follow you!"
 msgstr ""
-"Albo ... wiesz. Dziękuję bardzo za wyprowadzenie nas, sir. Chętnie pójdziemy "
+"Albo... wiesz co. Dziękuję bardzo za wyprowadzenie nas, sir. Chętnie pójdziemy "
 "za Tobą!"
 
 #. [message]: speaker=Ras-Tabahn
@@ -1774,7 +1775,7 @@ msgstr ""
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:288
 msgid "You’re the only Carcyn for me."
-msgstr ""
+msgstr "Jesteś teraz jedynym Carcynem dla mnie."
 
 #. [message]: speaker=Raydah
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:301
@@ -1788,7 +1789,7 @@ msgid ""
 "speak the obvious."
 msgstr ""
 "Trzymaj język za zębami! Rozumiem! Toleruję doradców, ale nie wtedy, gdy "
-"mówią tylko oczywiste."
+"mówią tylko oczywistości."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:316
@@ -1824,7 +1825,7 @@ msgid ""
 "offer. Peddle your corruption elsewhere."
 msgstr ""
 "Nikt w <i> moim </i> mieście nie chce „uciec”! Nie dbamy o Twoją ofertę. "
-"Przekazuj swoje korupcje gdzie indziej."
+"Rozsiewaj swoje zepsucie gdzie indziej."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:342
@@ -1833,7 +1834,7 @@ msgid ""
 "my agents to every house and public space in this town and repeat my offer. "
 "You will allow this."
 msgstr ""
-"Oferta nie jest przeznaczona dla <i> Ciebie</i>, jest dla waszej młodzieży. "
+"Oferta nie jest przeznaczona dla <i>Ciebie</i>, jest dla waszej młodzieży. "
 "Wyślę moich agentów do każdego domu i przestrzeni publicznej w tym mieście i "
 "powtórzę moją ofertę. Pozwolisz na to."
 
@@ -1861,7 +1862,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:401
 msgid "You can now recruit dark adepts!"
-msgstr ""
+msgstr "Możesz teraz rekrutować mrocznych adeptów!"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:427
@@ -1890,8 +1891,8 @@ msgid ""
 msgstr ""
 "Oferta Ras-Tabahn skusiła dużą grupę młodych ludzi, którzy pragnęli trenować "
 "jako magowie. Fakt, że było to nielegalne szkolenie w mrocznych sztukach, "
-"był nieistotny. Ważniejsza była ucieczka przed harówką, ustalonej "
-"przyszłości, zaplanowanej wcześniej przez rodziców. Ras-Tabahn spędził kilka "
+"był nieistotny. Ważniejsza była ucieczka przed harówką, ustaloną "
+"przyszłością, zaplanowaną wcześniej przez rodziców. Ras-Tabahn spędził kilka "
 "dni w lesie poza Carcynem, instruując ich, jak wezwać świat duchów i "
 "przekazać niewielką ilość jego mocy. Wkrótce po przeprowadzce natknęli się "
 "na trzy zagrody na brzegu rzeki, które nosiły wyraźne ślady ataków."
@@ -1939,9 +1940,9 @@ msgid ""
 msgstr ""
 "Ciekawe, co tu się stało. Cóż, nieważne. To, co było złe dla tych rodzin, "
 "jest dla nas dobre. Animuję ich, a ty zaatakujesz. Ćwicz zarówno zamrożenie, "
-"jak i ataki sił życiowych. Każdy z nas może wybrać jednego żołnierza z "
-"naszej armii dla ochrony, a ja wezwę go dla ciebie. Po tym nie pomogę. "
-"Zamierzam przeżyć większość z was w tej bitwie, więc starajcie się nie "
+"jak i ataki sił życiowych. Każdy z was może wybrać jednego żołnierza z "
+"naszej armii dla ochrony, a ja wezwę go dla niego. Po tym nie pomogę. "
+"Spodziewam się, że większość z was przeżyje tą bitwę, więc starajcie się nie "
 "umierać."
 
 #. [message]: speaker=Ras-Tabahn
@@ -1957,7 +1958,7 @@ msgstr "Czy możemy pomóc?"
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:364
 msgid "plural^As you wish. (<i>Cough, cough</i>)"
-msgstr "Jak sobie życzycie.(<i>kaszlu, kaszlu</i>)"
+msgstr "Jak sobie życzycie. (<i>kaszlu, kaszlu</i>)"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:374
@@ -4612,8 +4613,8 @@ msgstr ""
 "                Możesz ożywiać teraz ciała szczurów!,\n"
 "                Możesz ożywiać teraz ciała wilków!,\n"
 "                Możesz ożywiać teraz ciała ludzi!,\n"
-"                Możesz ożywiać teraz ciała mounted corpses!,\n"
-"                Możesz ożywiać teraz ciała wolf rider corpses!,\n"
+"                Możesz ożywiać teraz ciała jeźdzców!,\n"
+"                Możesz ożywiać teraz ciała wilczych jeżdzców!,\n"
 "                Możesz ożywiać teraz ciała swimming corpses!,\n"
 "                Możesz ożywiać teraz ciała saurian corpses!,\n"
 "                Możesz ożywiać teraz ciała wose corpses!,\n"
