@@ -43,28 +43,28 @@ msgstr "Przeciętny"
 #. [campaign]: id=Secrets of the Ancients
 #: data/campaigns/Secrets_of_the_Ancients/_main.cfg:17
 msgid "Unpleasant"
-msgstr ""
+msgstr "Nieprzyjemny"
 
 #. [campaign]: id=Secrets of the Ancients
 #: data/campaigns/Secrets_of_the_Ancients/_main.cfg:18
 #, fuzzy
 msgid "Challenging"
-msgstr "(wymagający)"
+msgstr "Wymagający"
 
 #. [campaign]: id=Secrets of the Ancients
 #: data/campaigns/Secrets_of_the_Ancients/_main.cfg:18
 msgid "Corrupt"
-msgstr ""
+msgstr "Zepsuty"
 
 #. [campaign]: id=Secrets of the Ancients
 #: data/campaigns/Secrets_of_the_Ancients/_main.cfg:19
 msgid "Diabolic"
-msgstr ""
+msgstr "Diaboliczny"
 
 #. [campaign]: id=Secrets of the Ancients
 #: data/campaigns/Secrets_of_the_Ancients/_main.cfg:19
 msgid "Difficult"
-msgstr "(trudny)"
+msgstr "Trudny"
 
 # W oryginalnym opisie scenariusza jest 'hard level, 18 scenarios'
 #. [campaign]: id=Secrets of the Ancients
