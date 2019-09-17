@@ -580,8 +580,8 @@ msgstr ""
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:762
 msgid "Well <i>I</i> say you shouldn’t question orders, so pipe down."
 msgstr ""
-"Więc <i>Ja</i> mówię, że nie powinieneś kwestionować rozkazów, więc bądź "
-"cicho."
+"Więc <i>Ja</i> mówię, że nie powinieneś kwestionować rozkazów, dlatego"
+"bądź cicho."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:801
@@ -674,7 +674,7 @@ msgstr ""
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:913
 msgid "Hey! Don't do that, or I will need more of them."
-msgstr "Hej! Nie rób tego, albo będę potrzebował ich więcej."
+msgstr "Hej! Nie rób tego, albo będę potrzebowała ich więcej."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:917
